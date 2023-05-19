@@ -6,9 +6,10 @@ let {Footer} =require("../config")
 exports.run = async(client, message , args) => {
     const member = message.mentions.members.first() || message.guild.members.cache.get(args[0]) || message.member;
     
-    let erkek = db.fetch(`yetkili.${message.author.id}.erkek`);
-    let kadın = db.fetch(`yetkili.${message.author.id}.kadın`);
-    let kayıtlar = db.fetch(`yetkili.${message.author.id}.toplam`); 
+    let erkek = db.fetch(`yetkili.${member.id}.erkek`);
+    let kadın = db.fetch(`yetkili.${member.id}.kadın`);
+    let kayıtlar = db.fetch(`yetkili.${member.id}.toplam`); 
+    
     if(erkek === null) erkek = "0"  
     if(erkek === undefined) erkek = "0"
     if(kadın === null) kadın = "0"
