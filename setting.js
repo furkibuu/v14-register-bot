@@ -1,20 +1,20 @@
 module.exports = {
 
 
-tag : "", sunucuid : ""
+tag : "Tagınız", sunucuid : "Sunucuzun ID"
 ,
-erkek1:"", erkek2:""
+erkek1:"erkekrolid 1", erkek2:"erkekrolid 2"
 ,
-kadin1:"" , kadin2:""
+kadin1:"kadınrolid 1" , kadin2:"kadinrolid 2"
 ,
 
-registerchat:"1106328448428949545" , regsiteryt:"1106289605323526174"
+registerchat:"kayıt kanal id" , regsiteryt:"register yt id"
 ,
-kayıtsız:"", kayıtsızisim:"· İsim | Yaş",
+kayıtsız:"kayıtsızrol id", kayıtsızisim:"· İsim | Yaş",
 
-chat : "", boosterRole : "",
+chat : "genel chat id", boosterRole : "boos role id",
 
-tagrol:"", taglog:""
+tagrol:"tagrol id", taglog:"tag kanal id"
 
 
 
