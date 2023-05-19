@@ -1,15 +1,15 @@
 module.exports ={ 
 
 
-    Developer : "849947229523279882",
+    Developer : "Develoepr ID",
 
-    Token : "MTAwNDg2NTc5ODU0NTg3NTEwNA.GpK2n5.wjIxI5i9VryYV-642c2q3wmBY5bP6WmHqwfC9A",
+    Token : "Token",
     
     Durum : "Furki#9999 Tarafından Yapıldı",
     Footer : "Furki Tarafından Yapıldı"
     ,
 
-    Prefix : "!"
+    Prefix : "."
 
 
 
