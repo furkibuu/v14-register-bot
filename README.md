@@ -1,5 +1,5 @@
 
-<p>Bu bot Furki#9999 tarafından son sürüme uygun bir şekilde yapılmıştır 10 Star gelmesi durumunda 3 tokenli v14 guard altyapısı atılacaktır iyi kullanımlar dilerim</p>
+<p>Bu bot furkibu tarafından son sürüme uygun bir şekilde yapılmıştır 10 Star gelmesi durumunda 3 tokenli v14 guard altyapısı atılacaktır iyi kullanımlar dilerim</p>
 
 
 
